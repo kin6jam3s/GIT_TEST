@@ -1,0 +1,25 @@
+TO GITHUB
+hello this is first GIT
+
+
+
+-Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson
+
+
+To be or not to be, that is the question!
+
+<<<<<<< HEAD
+
+-Letters and Social Aims. Quotation and Originality. Ralph Waldo Emerson. ca 1820-1840
+=======
+
+<<<<<<< HEAD
+
+
+
+
+
+testing stash
+=======
+master - after git stash
+>>>>>>> master
